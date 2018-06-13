@@ -23,7 +23,6 @@
   "homepage": "https://github.com/jdberrocal1/react-boilerplate",
   "dependencies": {
     "g": "^2.0.1",
-    "http-server": "^0.11.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
   },
